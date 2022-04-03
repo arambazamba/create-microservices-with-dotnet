@@ -24,4 +24,4 @@ data:
   UseLoadTest: "False"
   UseFeatureManagement: "True"
   FeatureManagement__Coupons: "True"
-  #AppConfig__Endpoint: <connection-string>
+  AppConfig__Endpoint: "Endpoint=https://eshoplearn20220403073054339.azconfig.io;Id=tx7F-l4-s0:4sO1/S+ZnvP4rzcjvRFC;Secret=h+iFIEuNu2qFAQ3rKN944dG79teTRzb/4E+ZZMiPuTI="
